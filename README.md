@@ -24,7 +24,7 @@ ____
 
 To import the plugin:
 
-1. Download the .unitypackage from here
+1. Download the [.unitypackage](http://evil-mind.com/huawei/downloads/HMSPlugin.unitypackage)
 2. Open your game in Unity
 3. Choose Assets> Import Package> Custom
 ![Import Package](http://evil-mind.com/huawei/images/importCustomPackage.png "Import package")
